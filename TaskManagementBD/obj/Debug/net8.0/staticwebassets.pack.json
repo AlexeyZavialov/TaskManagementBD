@@ -1,0 +1,997 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskManagementBD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TaskManagementBD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\colors\\blue.css",
+      "PackagePath": "staticwebassets\\css\\colors\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\fa-brands.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fa-brands.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\fa-regular.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fa-regular.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\fa-solid.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fa-solid.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fa-brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fa-regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fa-solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\themify-icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-core.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-core.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-variables.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-variables.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-wind.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-wind.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-day.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-day.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-direction.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-direction.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-misc.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-moon.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-moon.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-night.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-night.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-time.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-time.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-classes.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-classes.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-core.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-core.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-variables.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-wind.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-wind.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons.min.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons.min.less"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\spinners.css",
+      "PackagePath": "staticwebassets\\css\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\app-style-switcher.js",
+      "PackagePath": "staticwebassets\\js\\app-style-switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\js\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\pages\\dashboards\\dashboard1.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboards\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dayks\\source\\repos\\TaskManagementBD\\TaskManagementBD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskManagementBD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskManagementBD.props",
+      "PackagePath": "build\\TaskManagementBD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagementBD.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagementBD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskManagementBD.props",
+      "PackagePath": "buildTransitive\\TaskManagementBD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

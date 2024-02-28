@@ -1,0 +1,79 @@
+﻿@model IEnumerable<TaskManagementBD.Models.Task>
+@* @model TaskManagementBD.Models.Task *@
+
+@{ 
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    
+    <title>Tasks</title>
+</head>
+<body>
+    <div class="panel-body">
+        <h2>List of tasks to complete</h2>
+        
+        <table class="table table-sm table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>IsCompleted                        
+                        <i class="mdi mdi-sort-variant"></i>                        
+                    </th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>CreationTime</th>
+                    <th>ExecutionTime</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (TaskManagementBD.Models.Task r in Model) 
+                {
+                    <tr>
+                        <td>
+                            
+                            @* @Html.PartialAsync("EditTask", @model) *@
+                             <form class="p-a-1" asp-action="ListTasks" method="post">
+                                @r.Id
+                                @* <a  asp-action="EditTask" type="submit" name="Id" value=@r.Id>
+                                    <i class="mdi me-2 mdi-border-color"></i>
+                                </a>  *@
+
+
+                                <button class="btn btn-primary has-icon btn-sm" name="Id" value=@r.Id type="submit">
+                                    <i class="mdi me-2 mdi-border-color"></i>
+                                </button> 
+
+                             </form> 
+                            
+                        
+                        </td>
+                        <td>
+                            @r.IsCompleted
+
+                            @* <a asp-action="EditTask" type="submit" value="@model">
+                                <i class="mdi me-2 mdi-border-color"></i>
+                            </a> *@
+
+                            @* <button type="submit" action="PartialTask" name="EditTask" value="@model">
+                                <i class="mdi me-2 mdi-border-color"></i>
+                            </button> *@
+                        </td>
+                        <td>@r.Name</td>
+                        <td>@r.Description</td>
+                        <td>@r.CreationTime</td>
+                        <td>@r.ExecutionTime</td>
+                        
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+

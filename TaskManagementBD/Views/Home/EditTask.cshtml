@@ -1,0 +1,88 @@
+﻿
+
+@model TaskManagementBD.Models.Task
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    
+    <title>Task</title>
+</head>
+<body>
+    <div class="panel-body">   
+        <form class="p-a-1" asp-action="EditTask" method="post">
+            <table class="table table-sm table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>IsCompleted</th>
+                        <th>Name</th>
+                        <th>Description
+
+
+                        </th>
+                        <th>CreationTime</th>
+                        <th>ExecutionTime</th>
+
+                    </tr>
+                </thead>
+                <tbody>                
+                        <tr>
+                        <td>
+                            @Model.Id
+                        </td>
+
+                        <td>
+                        <div class="form-group">                                
+                                <select class="form-control" asp-for="@Model.IsCompleted">
+                                    <option value="">@Model.IsCompleted</option>
+                                    <option value="true">True</option>
+                                    <option value="false">False</option>
+                                </select>
+                        </div>                            
+                        </td>
+                        <td>
+                            <div class="form-group">
+                                <input class="form-control" asp-for="@Model.Name" />
+                            </div>
+                        </td>
+                        <td>
+                            <div class="form-group">
+                                <input class="form-control" asp-for="@Model.Description" />
+                            </div>
+                        </td>
+                        <td>
+                            <div class="form-group">
+                                <input class="form-control" asp-for="@Model.CreationTime" />
+                            </div>
+                        </td>
+                        <td><div class="form-group"><input class="form-control" asp-for="@Model.ExecutionTime" />
+                            </div>
+                        </td>
+                        </tr>                
+                </tbody>
+            </table>
+            <div class="float-right">
+                <button class="btn btn-primary" asp-action="index">                    
+                    <i class="mdi mdi-keyboard-backspace"></i>
+                </button>
+
+                <button class="btn btn-danger" asp-action="index">
+                    <i class="mdi mdi-delete"></i>
+                </button>
+
+                <button class="btn btn-primary" asp-action="index" type="submit">
+                    Отправить  
+                    <i class="mdi mdi-upload"></i>                    
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+

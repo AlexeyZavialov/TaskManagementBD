@@ -1,0 +1,45 @@
+﻿
+@model TaskManagementBD.Models.Task
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>Tasks</title>
+</head>
+<body>
+    <div class="panel-body">
+
+        <table class="table table-sm table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>IsCompleted</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>CreationTime</th>
+                    <th>ExecutionTime</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        @Model.Id
+                    </td>
+
+                    <td>@Model.IsCompleted</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.CreationTime</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
