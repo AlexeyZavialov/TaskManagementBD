@@ -35,34 +35,18 @@
                 @foreach (TaskManagementBD.Models.Task r in Model) 
                 {
                     <tr>
-                        <td>
-                            
-                            @* @Html.PartialAsync("EditTask", @model) *@
+                        <td>                            
                              <form class="p-a-1" asp-action="ListTasks" method="post">
-                                @r.Id
-                                @* <a  asp-action="EditTask" type="submit" name="Id" value=@r.Id>
-                                    <i class="mdi me-2 mdi-border-color"></i>
-                                </a>  *@
-
+                                @r.Id                                
 
                                 <button class="btn btn-primary has-icon btn-sm" name="Id" value=@r.Id type="submit">
                                     <i class="mdi me-2 mdi-border-color"></i>
                                 </button> 
-
-                             </form> 
-                            
-                        
+                             </form>        
                         </td>
                         <td>
                             @r.IsCompleted
 
-                            @* <a asp-action="EditTask" type="submit" value="@model">
-                                <i class="mdi me-2 mdi-border-color"></i>
-                            </a> *@
-
-                            @* <button type="submit" action="PartialTask" name="EditTask" value="@model">
-                                <i class="mdi me-2 mdi-border-color"></i>
-                            </button> *@
                         </td>
                         <td>@r.Name</td>
                         <td>@r.Description</td>

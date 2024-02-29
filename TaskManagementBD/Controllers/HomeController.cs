@@ -38,11 +38,11 @@ namespace TaskManagementBD.Controllers
         [HttpPost]
         public IActionResult EditTask(Task task)
         {
-            //if (ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 Repository.UpdateTask(task);
             }
-            return View("Privacy");           
+            return View("Index");           
         }
 
         

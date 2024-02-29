@@ -65,7 +65,7 @@ namespace TaskManagementBD.Models
             {
                 db.Tasks.Update(_task);
                 //db.Add(new Task() { Name = "pechen1", Description = "lylylyly" });
-                // db.Add(new Task() { Name = "pechen2", Description = "blbylyblybly" });
+                // db.Add(new Task() { Name = "pechen2", Description = "bbyybyby" });
                  db.SaveChanges();
 
                 
