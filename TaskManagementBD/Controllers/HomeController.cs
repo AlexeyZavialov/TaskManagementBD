@@ -30,7 +30,7 @@ namespace TaskManagementBD.Controllers
         {            
             if (ModelState.IsValid)
             {
-                return View("EditTask", Repository.TakeTasks(task.Id - 1));
+                return View("EditTask", Repository.ActionTasks(Repository.OptionsTask.take, task.Id - 1));
             }
             return View("Privacy");
         }
@@ -40,16 +40,13 @@ namespace TaskManagementBD.Controllers
         {
             if (ModelState.IsValid)
             {
-                Repository.UpdateTask(task);
+                Repository.ActionTasks(Repository.OptionsTask.add, 0, task);
             }
             return View("Index");           
-        }
-
-        
+        }        
 
         public IActionResult EditTask() => 
-            View("EditTask", new Task());      
-        
+            View("EditTask", new Task());              
 
         public IActionResult Privacy()
         {
