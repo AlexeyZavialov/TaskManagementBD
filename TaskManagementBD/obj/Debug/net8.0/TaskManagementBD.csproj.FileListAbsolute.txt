@@ -253,3 +253,4 @@ C:\Users\Dayks\source\repos\TaskManagementBD\TaskManagementBD\bin\Debug\net8.0\r
 C:\Users\Dayks\source\repos\TaskManagementBD\TaskManagementBD\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Dayks\source\repos\TaskManagementBD\TaskManagementBD\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Dayks\source\repos\TaskManagementBD\TaskManagementBD\obj\Debug\net8.0\scopedcss\Views\Shared\AdminLayout.cshtml.rz.scp.css
+C:\Users\Dayks\source\repos\TaskManagementBD\TaskManagementBD\obj\Debug\net8.0\TaskManagementBD.sourcelink.json

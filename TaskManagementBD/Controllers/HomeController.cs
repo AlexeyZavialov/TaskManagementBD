@@ -13,12 +13,10 @@ namespace TaskManagementBD.Controllers
         {
             _logger = logger;
         }
-
         public IActionResult Index()
         {
             return View("ListTasks", Repository.Tasks);
         }
-
         public IActionResult ListTasks()
         {
             return View("ListTasks", Repository.Tasks);            

@@ -37,8 +37,7 @@
                     <tr>
                         <td>                            
                              <form class="p-a-1" asp-action="ListTasks" method="post">
-                                @r.Id                                
-
+                                @r.Id         
                                 <button class="btn btn-primary has-icon btn-sm" name="Id" value=@r.Id type="submit">
                                     <i class="mdi me-2 mdi-border-color"></i>
                                 </button> 
@@ -46,7 +45,6 @@
                         </td>
                         <td>
                             @r.IsCompleted
-
                         </td>
                         <td>@r.Name</td>
                         <td>@r.Description</td>

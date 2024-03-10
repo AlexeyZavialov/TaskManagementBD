@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer.Migrations.Internal;
 using Microsoft.Extensions.FileProviders;
 using System.Net.NetworkInformation;
-using TaskManagementBD.Data;
+using TaskManagementBD.DAL.Data;
 using Task = TaskManagementBD.Models.Task;
 
 
